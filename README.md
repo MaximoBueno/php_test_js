@@ -1,0 +1,2 @@
+# boceto
+ ajax sin jquery
